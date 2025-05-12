@@ -1,0 +1,17 @@
+Tensorflow
+Keras
+Numpy
+Opencv-python
+Pandas
+jupyter
+jupyter notebook
+tqm
+Keras
+
+images                            labels
+images/angry.png                   angry
+images/angry.png                   angry
+images/sad.png                     sad
+images/sad.png                     sad
+
+load_img(img,grayscale=true)
